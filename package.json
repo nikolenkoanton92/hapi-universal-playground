@@ -21,8 +21,9 @@
     "handlebars": "4.0.5",
     "hapi": "14.1.0",
     "inert": "4.0.1",
-    "react": "^15.3.0",
-    "react-dom": "^15.3.0",
+    "react": "15.3.0",
+    "react-dom": "15.3.0",
+    "react-router": "2.6.1",
     "vision": "4.1.0"
   },
   "devDependencies": {
