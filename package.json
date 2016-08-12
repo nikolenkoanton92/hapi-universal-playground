@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/nikolenkoanton92/hapi-universal-playground#readme",
   "dependencies": {
-    "hapi": "14.1.0"
+    "handlebars": "4.0.5",
+    "hapi": "14.1.0",
+    "inert": "4.0.1",
+    "vision": "4.1.0"
   },
   "devDependencies": {
     "babel": "6.0.0",
